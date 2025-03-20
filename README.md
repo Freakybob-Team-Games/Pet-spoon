@@ -3,7 +3,7 @@ Pet Spoon sim C++ real 2027
 ## C++ Version Credits
 Made by 5quirre1 and Nomaakip
 ## Python Version Credits
-Made by wishyt13
+Made by wishyt13 and mpax235
 ## Build Instructions
 ### For Windows
 You will need to install Visual Studio Community first, then open the Developer Command Prompt for VS (1).
